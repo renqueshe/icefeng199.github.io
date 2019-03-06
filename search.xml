@@ -1,22 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[Start!]]></title>
-    <url>%2F%E9%9A%8F%E5%BF%83%E7%AC%94%E8%AE%B0%2FStart%2F</url>
-    <content type="text"><![CDATA[###Test_Java 1234567```javapublic class Main()&#123; public static void main(String [] args)&#123; System.out.println("Hi ! guys !"); &#125;&#125;``` ###Test_Cpp 123456#include&lt;iostream&gt;using namespace std;int main()&#123; cout&lt;&lt;"Hi Boy"&lt;&lt;endl; return 0;&#125; ###Test_C 12345#include&lt;stdio.h&gt;int main()&#123; printf("Hi gay !"); return 0;&#125;]]></content>
+    <title><![CDATA[Start]]></title>
+    <url>%2F2019%2FHi%2F</url>
+    <content type="text"><![CDATA[Test_Java1234567```javapublic class Main()&#123; public static void main(String [] args)&#123; System.out.println("Hi ! guys !"); &#125;&#125;``` Test_cpp123456#include&lt;iostream&gt;using namespace std;int main()&#123; cout&lt;&lt;"Hi Boy"&lt;&lt;endl; return 0;&#125; Test_C12345#include&lt;stdio.h&gt;int main()&#123; printf("Hi gay !"); return 0;&#125;]]></content>
       <categories>
         <category>随心笔记</category>
-      </categories>
-      <tags>
-        <tag>笔记,心情</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[Hello World]]></title>
-    <url>%2FTesting%2Fhello-world%2F</url>
-    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
-      <categories>
-        <category>Testing</category>
       </categories>
   </entry>
 </search>
