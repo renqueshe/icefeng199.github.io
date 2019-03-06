@@ -2,11 +2,14 @@
 <search>
   <entry>
     <title><![CDATA[Start!]]></title>
-    <url>%2FTesting%2FStart%2F</url>
-    <content type="text"><![CDATA[###测试CODE字体！ 1234567```javapublic class Main()&#123; public static void main(String [] args)&#123; System.out.println("Hi ! guys !"); &#125;&#125;```]]></content>
+    <url>%2F%E9%9A%8F%E5%BF%83%E7%AC%94%E8%AE%B0%2FStart%2F</url>
+    <content type="text"><![CDATA[###Test_Java 1234567```javapublic class Main()&#123; public static void main(String [] args)&#123; System.out.println("Hi ! guys !"); &#125;&#125;``` ###Test_Cpp 123456#include&lt;iostream&gt;using namespace std;int main()&#123; cout&lt;&lt;"Hi Boy"&lt;&lt;endl; return 0;&#125; ###Test_C 12345#include&lt;stdio.h&gt;int main()&#123; printf("Hi gay !"); return 0;&#125;]]></content>
       <categories>
-        <category>Testing</category>
+        <category>随心笔记</category>
       </categories>
+      <tags>
+        <tag>笔记,心情</tag>
+      </tags>
   </entry>
   <entry>
     <title><![CDATA[Hello World]]></title>
