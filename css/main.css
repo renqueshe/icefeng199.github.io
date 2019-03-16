@@ -1909,7 +1909,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ffd7b5;
+  background: #37aa0d;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3223,4 +3223,30 @@ pre .javascript .function {
 .site-title {
   font-size: 27px !important;
   font-family: 'damion' !important;
+}
+img.emoji {
+  height: 1.5em;
+  width: 1.5em;
+  margin: 0 0.05em 0 0.1em;
+  vertical-align: -0.1em;
+}
+img.emoji {
+  height: 1.5em;
+  width: 1.5em;
+  margin: 0 0.05em 0 0.1em !important;
+  vertical-align: -0.1em;
+  padding: 0px !important;
+  border: none !important;
+  display: inline !important;
+}
+body {
+  background: url("https://0d077ef9e74d8.cdn.sohucs.com/rkSiCjn_jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+}
+.main-inner {
+  margin-top: 6px;
+  opacity: 0.9;
 }
