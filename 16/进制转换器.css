@@ -1,0 +1,21 @@
+/*head的css*/
+.box{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    margin:7rem auto;
+    border:1px solid #58C9B9;
+    width:48%;height:350px;
+    color: #1d1919;
+    border-radius: 15px;
+    box-shadow: 2px 2px 3px
+}
+.header{text-align: center;background-color: #58C9B9;line-height: 1rem;width: 100%;border-radius: 10px;}
+.radio{font-weight: 300;font-size: 19px;border-radius: 15px;}
+.tool_content ul li{width:80px;height:30px;display:inline-block;border-radius: 15px;}
+.tool_content a{outline: none;border-radius: 15px;}
+
+.content_area{margin:20px 0 0 0;font-size: 15px;border-radius: 15px;}
+
+.input-group{margin-left: 2rem;border-radius: 15px;}
+
